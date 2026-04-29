@@ -21,37 +21,45 @@ My work spans NLP, computer vision, deep reinforcement learning, and generative 
 - Cloud-based inference pipelines and deployment-ready ML services on AWS and Azure.
 
 ## Experience
+## Data Analyst – Financial Operations Sept 2025 – Feb 2026
+KCC Capital Partners | Remote, United States
 
-### Data Scientist (Part-time) — KCC Capital Partners
-*Nov 2025 – Present · Remote, United States*
+• Extracted and standardized raw investor, fund, and transaction records from source systems using SQL and Python, consolidating
+fragmented datasets into structured reporting tables used across the finance team.
+• Built reusable data models from general ledger-style financial data to support multiple reporting outputs, cutting manual
+reconciliation time and improving consistency across monthly investor reports.
+• Automated recurring financial data workflows using Python scripting, reducing report turnaround time and eliminating repeated
+manual steps across 3 reporting cycles.
+• Worked with finance and business teams to validate data accuracy requirements, identifying and resolving data gaps in investor
+records before reports were finalized and presented to leadership.
 
-- Developed and maintained data infrastructure for a financial intelligence platform covering venture capital, private equity, and emerging technology investment ecosystems
-- Improved a semantic search pipeline using transformer embeddings, vector indexing, and reranking to support natural-language querying over structured and unstructured investor datasets
-- Processed and structured large-scale investment text data for LLM workflows — including text preprocessing, embedding preparation, and dataset validation
-- Integrated and ingested data from third-party APIs and external financial data sources into cloud-based pipelines on AWS
-- Collaborated with analysts to translate business requirements into data models and query interfaces across firms, funds, decision makers, and transactions
-- Applied NLP techniques to extract and organize key financial entities and relationships from unstructured investment documents
+----
 
----
+## Data Science Intern – GenAI & NLP May 2025 – Aug 2025
+Publicis Sapient | Bengaluru, India
 
-### Data Scientist — Publicis Sapient
-*May 2025 – Aug 2025 · Bengaluru, India*
+• Built a multimodal retrieval system using CLIP embeddings and pg-vector with HNSW indexing, enabling natural-language search
+across an unstructured catalog of images and video frames.
+• Engineered a RAG pipeline combining dense retrieval, BM25 hybrid search, and an LLM generator with contextual chunking,
+improving response relevance by 35% on RAGAS benchmarks.
+• Analyzed and optimized retrieval performance by tuning learning rate, batch size, and contrastive loss, lifting top-k precision by
+22% over baseline across 3 model releases tracked in MLflow.
+• Orchestrated Dockerized inference services on AWS EC2 behind a FastAPI gateway with CloudWatch monitoring, reducing p95
+latency by 40% through batched requests and embedding caching.
 
-- Implemented an end-to-end multimodal video asset recommendation system using CLIP embeddings and pgvector for semantic search and relevance ranking across large-scale image and video datasets
-- Integrated LLaMA and transformer-based NLP models into a RAG pipeline to process natural language queries and return contextually relevant multimedia content
-- Deployed production-grade LLM inference pipelines on AWS EC2 with S3-backed storage, applying hyperparameter tuning and similarity evaluation to improve retrieval accuracy NOT 
+----
 
----
+## Data Analyst Intern Sept 2023 – May 2024
+Hindustan Aeronautics Limited (HAL) | Bengaluru, India
 
-### Data Analyst Intern — Hindustan Aeronautics Limited (HAL)
-*Apr 2024 – Dec 2024 · Bengaluru, India*
+• Analyzed aerospace manufacturing and operations data using SQL and Python, reducing weekly report turnaround time by 35% by
+transforming raw system logs into structured reporting datasets.
+• Identified and communicated data anomalies and inconsistencies across manufacturing reports, building 4 Power BI dashboards
+that raised data accuracy by 20% and reduced manual quality reviews.
 
-- Analyzed aerospace manufacturing and operations data using SQL, converting raw production logs into analysis-ready tables and performance reports
-- Identified data anomalies and quality issues, collaborating with engineering, quality, and operations teams to support process improvement and governance standards
+---- 
 
----
-
-### Data Analyst Intern — EVE Health Care Pvt Ltd
-*May 2023 – Aug 2023 · Bengaluru, India*
-
-- Analyzed clinical and patient utilization data using Python and SQL on Azure, cleaning and validating datasets to identify treatment patterns, operational bottlenecks, and key healthcare KPIs
+##Clinical Data Analyst Intern May 2023 – Aug 2023
+EVE Health Care Pvt Ltd | Remote, India
+• Validated and processed clinical and patient utilization data using Python, SQL, and Azure, delivering 10 healthcare KPIs and 6
+visualizations presented to clinical leadership in monthly reviews.
