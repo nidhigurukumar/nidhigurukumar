@@ -24,13 +24,13 @@ My work spans NLP, computer vision, deep reinforcement learning, and generative 
 ## Data Analyst – Financial Operations Sept 2025 – Feb 2026
 KCC Capital Partners | Remote, United States
 
-• Extracted and standardized raw investor, fund, and transaction records from source systems using SQL and Python, consolidating
+- Extracted and standardized raw investor, fund, and transaction records from source systems using SQL and Python, consolidating
 fragmented datasets into structured reporting tables used across the finance team.
-• Built reusable data models from general ledger-style financial data to support multiple reporting outputs, cutting manual
+- Built reusable data models from general ledger-style financial data to support multiple reporting outputs, cutting manual
 reconciliation time and improving consistency across monthly investor reports.
-• Automated recurring financial data workflows using Python scripting, reducing report turnaround time and eliminating repeated
+- Automated recurring financial data workflows using Python scripting, reducing report turnaround time and eliminating repeated
 manual steps across 3 reporting cycles.
-• Worked with finance and business teams to validate data accuracy requirements, identifying and resolving data gaps in investor
+- Worked with finance and business teams to validate data accuracy requirements, identifying and resolving data gaps in investor
 records before reports were finalized and presented to leadership.
 
 ----
@@ -38,13 +38,13 @@ records before reports were finalized and presented to leadership.
 ## Data Science Intern – GenAI & NLP May 2025 – Aug 2025
 Publicis Sapient | Bengaluru, India
 
-• Built a multimodal retrieval system using CLIP embeddings and pg-vector with HNSW indexing, enabling natural-language search
+- Built a multimodal retrieval system using CLIP embeddings and pg-vector with HNSW indexing, enabling natural-language search
 across an unstructured catalog of images and video frames.
-• Engineered a RAG pipeline combining dense retrieval, BM25 hybrid search, and an LLM generator with contextual chunking,
+- Engineered a RAG pipeline combining dense retrieval, BM25 hybrid search, and an LLM generator with contextual chunking,
 improving response relevance by 35% on RAGAS benchmarks.
-• Analyzed and optimized retrieval performance by tuning learning rate, batch size, and contrastive loss, lifting top-k precision by
+- Analyzed and optimized retrieval performance by tuning learning rate, batch size, and contrastive loss, lifting top-k precision by
 22% over baseline across 3 model releases tracked in MLflow.
-• Orchestrated Dockerized inference services on AWS EC2 behind a FastAPI gateway with CloudWatch monitoring, reducing p95
+- Orchestrated Dockerized inference services on AWS EC2 behind a FastAPI gateway with CloudWatch monitoring, reducing p95
 latency by 40% through batched requests and embedding caching.
 
 ----
@@ -52,14 +52,14 @@ latency by 40% through batched requests and embedding caching.
 ## Data Analyst Intern Sept 2023 – May 2024
 Hindustan Aeronautics Limited (HAL) | Bengaluru, India
 
-• Analyzed aerospace manufacturing and operations data using SQL and Python, reducing weekly report turnaround time by 35% by
+- Analyzed aerospace manufacturing and operations data using SQL and Python, reducing weekly report turnaround time by 35% by
 transforming raw system logs into structured reporting datasets.
-• Identified and communicated data anomalies and inconsistencies across manufacturing reports, building 4 Power BI dashboards
+- Identified and communicated data anomalies and inconsistencies across manufacturing reports, building 4 Power BI dashboards
 that raised data accuracy by 20% and reduced manual quality reviews.
 
 ---- 
 
-##Clinical Data Analyst Intern May 2023 – Aug 2023
+## Clinical Data Analyst Intern May 2023 – Aug 2023
 EVE Health Care Pvt Ltd | Remote, India
-• Validated and processed clinical and patient utilization data using Python, SQL, and Azure, delivering 10 healthcare KPIs and 6
+- Validated and processed clinical and patient utilization data using Python, SQL, and Azure, delivering 10 healthcare KPIs and 6
 visualizations presented to clinical leadership in monthly reviews.
