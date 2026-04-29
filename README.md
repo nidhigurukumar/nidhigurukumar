@@ -21,8 +21,8 @@ My work spans NLP, computer vision, deep reinforcement learning, and generative 
 - Cloud-based inference pipelines and deployment-ready ML services on AWS and Azure.
 
 ## Experience
-## Data Analyst – Financial Operations Sept 2025 – Feb 2026
-KCC Capital Partners | Remote, United States
+## Data Analyst – Financial Operations  
+KCC Capital Partners | Remote, United States | Sept 2025 – Feb 2026
 
 - Extracted and standardized raw investor, fund, and transaction records from source systems using SQL and Python, consolidating
 fragmented datasets into structured reporting tables used across the finance team.
@@ -35,8 +35,8 @@ records before reports were finalized and presented to leadership.
 
 ----
 
-## Data Science Intern – GenAI & NLP May 2025 – Aug 2025
-Publicis Sapient | Bengaluru, India
+## Data Science Intern – GenAI & NLP 
+Publicis Sapient | Bengaluru, India | May 2025 – Aug 2025
 
 - Built a multimodal retrieval system using CLIP embeddings and pg-vector with HNSW indexing, enabling natural-language search
 across an unstructured catalog of images and video frames.
@@ -49,8 +49,8 @@ latency by 40% through batched requests and embedding caching.
 
 ----
 
-## Data Analyst Intern Sept 2023 – May 2024
-Hindustan Aeronautics Limited (HAL) | Bengaluru, India
+## Data Analyst Intern 
+Hindustan Aeronautics Limited (HAL) | Bengaluru, India | Sept 2023 – May 2024
 
 - Analyzed aerospace manufacturing and operations data using SQL and Python, reducing weekly report turnaround time by 35% by
 transforming raw system logs into structured reporting datasets.
@@ -59,7 +59,7 @@ that raised data accuracy by 20% and reduced manual quality reviews.
 
 ---- 
 
-## Clinical Data Analyst Intern May 2023 – Aug 2023
-EVE Health Care Pvt Ltd | Remote, India
+## Clinical Data Analyst Intern 
+EVE Health Care Pvt Ltd | Remote, India | May 2023 – Aug 2023
 - Validated and processed clinical and patient utilization data using Python, SQL, and Azure, delivering 10 healthcare KPIs and 6
 visualizations presented to clinical leadership in monthly reviews.
